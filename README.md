@@ -1,8 +1,8 @@
 # Hospital-Management-System
 
-# Reg No:212224040007
-# Name: Abhishek Kannan M
-# Date: 26/08/26
+# Reg No:212225230083
+# Name: GOPIKA  DHARSHINI.N
+# Date: 28/08/26
 
 
 # AIM:
